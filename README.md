@@ -1,6 +1,8 @@
 # Cross Matrix
 
-Matrice de routage à grille croisée (VST3 / AU), à charger dans Pro Tools via Blue Cat Audio Patchwork.
+Matrice de routage à grille croisée (VST3 / AU). 
+Permet d'intervertir, de croiser, mélanger ou rerouter les canaux de fichiers multipistes.
+Fonctionne dans Pro Tools via Blue Cat Audio Patchwork.
 
 - **Entrées en ordonnées (lignes), sorties en abscisse (colonnes)**, de 1 à 16 canaux de chaque côté. La matrice prend la largeur de canaux que lui donne l'hôte (mono, stéréo, 5.1, 7.1, ambisonique, discret…).
 - **Division** : une entrée peut alimenter plusieurs sorties.
